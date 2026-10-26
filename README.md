@@ -34,6 +34,16 @@
 
 👉 **저장소**: [yehongk-maker/poker-defense](https://github.com/yehongk-maker/poker-defense)
 
+#### 👗 [IPDA (입다)](https://github.com/yehongk-maker/ipda-showcase) — AI 가상 피팅 패션 매거진 앱
+> 인플루언서 매거진을 넘겨 보다가 마음에 드는 옷을 AI로 내 몸에 입혀 보고 구매까지 이어지는 모바일 웹. 기획·UX 설계·프로토타입·아키텍처 설계.
+
+- 매거진형 피드, AI 피팅, 체형 기반 사이즈 추천, 사진 속 옷 찾기
+- Claude Code 역할별 AI 에이전트 팀으로 개발 흐름 설계
+
+`Next.js` `TypeScript` `Express` `Prisma` `Supabase` `BullMQ` `WebSocket`
+
+👉 **쇼케이스**: [yehongk-maker/ipda-showcase](https://github.com/yehongk-maker/ipda-showcase) (화면·역할 소개, 코드 비공개)
+
 ---
 
 ### 📫 Contact
