@@ -22,7 +22,7 @@
 
 `React` `TypeScript` `Supabase` `pgvector` `Vercel Functions` `Vitest` `Playwright`
 
-#### 🃏 포커디펜스 — 포커 족보 기반 랜덤 디펜스 게임
+#### 🃏 [포커디펜스](https://github.com/yehongk-maker/poker-defense) — 포커 족보 기반 랜덤 디펜스 게임
 > 카드 5장으로 족보를 만들어 유닛을 소환하는 모바일 디펜스 게임. 기획서(GDD)부터 직접 작성.
 
 - 유닛 40종 · 지상/공중 · 시너지 4축 + 빙고 보너스
@@ -31,6 +31,8 @@
 - Android 빌드 + 보상형 광고 연동
 
 `Phaser` `TypeScript` `Supabase` `Capacitor` `Vitest`
+
+👉 **저장소**: [yehongk-maker/poker-defense](https://github.com/yehongk-maker/poker-defense)
 
 ---
 
